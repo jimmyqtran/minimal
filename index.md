@@ -5,9 +5,41 @@ layout: default
 
 # About Me
 
-I'm a machine learning engineer and data scientist passionate about make an impact in financial technology and data science. I completed the Graduate Certificate Program in Data Science at Harvard Extension School in 2021. Prior to that, I completed my undergraduate studies in statistics and economics at the University of California, Berkeley in 2018. During my final undergraduate term, I studied abroad at the London School of Economics and Political Science.
+I'm a machine learning engineer and data scientist passionate about making an impact in financial technology and data science. I completed the Graduate Certificate Program in Data Science at Harvard Extension School in 2021. Prior to that, I completed my undergraduate studies in statistics and economics at the University of California, Berkeley in 2018. During my final undergraduate term, I studied abroad at the London School of Economics and Political Science.
 
 I'm also a proud first-generation college graduate. My parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in me a strong work ethic and a passion for learning.
+
+## Experience
+
+---
+
+### Assistant Instructor, Artificial Intelligence
+**University of Pennsylvania & edX** — Remote  
+*April 2024 – Present*
+
+### Senior Data Scientist
+**JPMorgan Chase** — San Francisco, CA  
+*July 2023 – April 2024*
+
+
+### Senior Quantitative Developer  
+**First Republic Bank** — San Francisco, CA  
+*September 2022 – June 2023*
+
+
+### Quantitative Developer  
+**First Republic Bank** — San Francisco, CA  
+*June 2019 – September 2022*
+
+
+### Assistant Instructor  
+**UC Berkeley Extension & edX** — Berkeley, CA  
+*September 2021 – May 2023*
+
+### Assistant Instructor, Financial Technology
+**UC Berkeley & edX** — New York, NY (Remote)  
+*June 2023 – Present*
+
 
 ## Education
 
