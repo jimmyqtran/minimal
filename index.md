@@ -8,7 +8,7 @@ I'm a machine learning engineer and educator passionate about making an impact i
 
 I'm also a proud first-generation college graduate. My parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in me a strong work ethic and a passion for learning.
 
-In my spare time, I’m an avid lover of espresso and enjoy supporting local roasters. My favorite spot for coffee beans is [Andytown Coffee Roasters](https://www.andytownsf.com/), where I source my espresso beans.
+In my spare time, I’m an avid lover of espresso and enjoy supporting local roasters. My favorite spot for coffee beans is [Andytown Coffee Roasters](https://www.andytownsf.com/).
 
 ---
 
