@@ -11,26 +11,32 @@ I'm also a proud first-generation college graduate. My parents fled from Vietnam
 
 
 
----
 
-
-## Experience
+## Work Experience
 
 ### Assistant Instructor, Artificial Intelligence
 **University of Pennsylvania & edX Boot Camps** — Remote  
 *April 2024 – Present*
 
+---
+
 ### Senior Data Scientist
 **JPMorgan Chase** — San Francisco, CA  
 *July 2023 – April 2024*
+
+---
 
 ### Senior Quantitative Developer, Statistical Modeling
 **First Republic Bank** — San Francisco, CA  
 *September 2022 – June 2023*
 
+---
+
 ### Quantitative Developer, Statistical Modeling
 **First Republic Bank** — San Francisco, CA  
 *June 2019 – September 2022*
+
+---
 
 ### Assistant Instructor, Financial Technology
 **UC Berkeley & edX Boot Camps** — Berkeley, CA  
@@ -68,7 +74,7 @@ Relevant Coursework:
 - CSCI E-108: Data Mining, Discovery, and Exploration
 - ISMT E-136: Time Series Analysis with Python
 - ISMT S-161: Computational Bayesian Inference
-- MATH E-23A: Linear Algebra and Real Analysis I†
+- MATH E-23A: Linear Algebra and Real Analysis I^†[^1]
 - MATH E-23C: Mathematics for Computation and Data Science†
 - MATH E-156: Mathematical Statistics
 
