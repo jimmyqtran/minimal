@@ -2,122 +2,54 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Jimmy Tran
 
-There should be whitespace between paragraphs.
+Jimmy completed the Graduate Certificate Program in Data Science at Harvard Extension School in 2021. Prior to that, he completed his undergraduate studies in statistics and economics at the University of California, Berkeley in 2018. During his final undergraduate term, he studied abroad at the London School of Economics and Political Science.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+He is also a proud first-generation college graduate. His parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in him a strong work ethic and a passion for learning.
 
-# Header 1
+## Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Stanford University  
+**Graduate Foundations in Computer Science**  
+*In Progress*  
+GPA: 4.07 / 4.00
 
-## Header 2
+Relevant Coursework:
+- CS 103: Mathematical Foundations of Computing
+- CS 109: Introduction to Probability for Computer Scientists
+- CS 154: Introduction to the Theory of Computation
+- CS 161: Design and Analysis of Algorithms
+- CS 168: The Modern Algorithmic Toolbox
+- CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
+- EE 278: Probability and Statistical Inference
+- STATS 217: Introduction to Stochastic Processes I
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Harvard University, Harvard Extension School  
+**Graduate Certificate in Data Science**  
+*Awarded:* January 2021  
+GPA: 3.93 / 4.00
 
-### Header 3
+Relevant Coursework:
+- CSCI E-63C: Elements of Data Science and Statistical Learning with R
+- CSCI E-89C: Deep Reinforcement Learning
+- CSCI E-108: Data Mining, Discovery, and Exploration
+- ISMT E-136: Time Series Analysis with Python
+- ISMT S-161: Computational Bayesian Inference
+- MATH E-23A: Linear Algebra and Real Analysis I†
+- MATH E-23C: Mathematics for Computation and Data Science†
+- MATH E-156: Mathematical Statistics
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*† Course was also offered or cross-listed at Harvard College.*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### University of California, Berkeley  
+**Bachelor of Arts**  
+*Awarded:* August 2018  
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Relevant Coursework:
+- MATH 54: Linear Algebra and Differential Equations
+- STAT 133: Concepts in Computing with Data
+- STAT 134: Concepts of Probability
+- STAT 135: Concepts of Statistics
+- STAT 151A: Linear Modeling: Theory and Applications
