@@ -48,7 +48,7 @@ GPA: 4.07 / 4.00
 
 #### Relevant Coursework:
 - CS 103: Mathematical Foundations of Computing
-- CS 107: Computer Organizations and Systems (In-progress)
+- CS 107: Computer Organization and Systems (In-progress)
 - CS 109: Introduction to Probability for Computer Scientists
 - CS 154: Introduction to the Theory of Computation
 - CS 161: Design and Analysis of Algorithms
