@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-# Jimmy Tran
+# About Me
 
-Jimmy completed the Graduate Certificate Program in Data Science at Harvard Extension School in 2021. Prior to that, he completed his undergraduate studies in statistics and economics at the University of California, Berkeley in 2018. During his final undergraduate term, he studied abroad at the London School of Economics and Political Science.
+I'm a machine learning engineer and data scientist passionate about make an impact in financial technology and data science. I completed the Graduate Certificate Program in Data Science at Harvard Extension School in 2021. Prior to that, I completed my undergraduate studies in statistics and economics at the University of California, Berkeley in 2018. During my final undergraduate term, I studied abroad at the London School of Economics and Political Science.
 
-He is also a proud first-generation college graduate. His parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in him a strong work ethic and a passion for learning.
+I'm also a proud first-generation college graduate. My parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in me a strong work ethic and a passion for learning.
 
 ## Education
 

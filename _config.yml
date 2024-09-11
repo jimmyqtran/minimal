@@ -1,6 +1,5 @@
-title: Jimmy Tran's Personal Website
-description: Machine Learning Engineer and Quantitative Developer
+title: Jimmy Tran
 logo: /assets/img/logo.png
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
