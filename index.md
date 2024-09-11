@@ -9,35 +9,35 @@ I'm a machine learning engineer and data scientist passionate about making an im
 
 I'm also a proud first-generation college graduate. My parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in me a strong work ethic and a passion for learning.
 
+
+
+---
+
+
 ## Experience
 
 ### Assistant Instructor, Artificial Intelligence
 **University of Pennsylvania & edX Boot Camps** — Remote  
 *April 2024 – Present*
 
----
-
 ### Senior Data Scientist
 **JPMorgan Chase** — San Francisco, CA  
 *July 2023 – April 2024*
-
----
 
 ### Senior Quantitative Developer, Statistical Modeling
 **First Republic Bank** — San Francisco, CA  
 *September 2022 – June 2023*
 
----
-
 ### Quantitative Developer, Statistical Modeling
 **First Republic Bank** — San Francisco, CA  
 *June 2019 – September 2022*
 
----
-
 ### Assistant Instructor, Financial Technology
 **UC Berkeley & edX Boot Camps** — Berkeley, CA  
 *September 2021 – May 2023*
+
+
+---
 
 
 ## Education
