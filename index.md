@@ -6,7 +6,7 @@ I'm a machine learning engineer and educator passionate about making an impact i
 
 I completed the Graduate Certificate Program in Data Science at Harvard Extension School in 2021. Prior to that, I completed my undergraduate studies in statistics and economics at the University of California, Berkeley, in 2018. During my final undergraduate term, I studied abroad at the London School of Economics and Political Science.
 
-I'm also a proud first-generation college graduate. My parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in me a strong work ethic and a passion for learning.
+I'm also a proud first-generation, low-income (FLI) college graduate. My parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in me a strong work ethic and a passion for learning.
 
 In my spare time, I’m an avid lover of espresso and enjoy supporting local roasters. My favorite spot for coffee beans is [Andytown Coffee Roasters](https://www.andytownsf.com/).
 
@@ -36,6 +36,22 @@ In my spare time, I’m an avid lover of espresso and enjoy supporting local roa
 *September 2021 – May 2023*
 
 ---
+
+## Volunteer Experience
+
+### Data Fellow/Data Scientist
+**Delta Analytics & CareerVillage.org**  — San Francisco, CA  
+*2021*  
+Our team at Delta Analytics partnered with CareerVillage.org to enhance the platform’s ability to match students’ career-related questions with professionals, focusing on improving the relevance of email recommendations. Using insights from the occupation dataset we developed in 2020, we analyzed user trends and evaluated the existing recommendation algorithms. Our findings revealed a need for improvements in matching accuracy, and we proposed enhancements using a bag-of-words model. Additionally, we developed comprehensive unit tests to help CareerVillage improve their algorithm’s effectiveness. Our work provided actionable insights and recommendations that CareerVillage prioritized for further implementation.
+
+
+
+### Data Fellow/Data Scientist
+**Delta Analytics & CareerVillage.org**  — San Francisco, CA  
+*2020*  
+Our team partnered with CareerVillage.org to help improve their platform's ability to deliver personalized career advice to underserved students. By analyzing user engagement and interaction data, we optimized how career-related questions were categorized and matched with professional responses, helping students receive more relevant guidance. We also developed tools to monitor key platform metrics, enabling CareerVillage to better assess their impact. Throughout the project, we maintained the highest standards of data privacy and confidentiality in line with our agreement with CareerVillage.
+
+[▶️ Watch CareerVillage Founder’s Testimonial](https://www.youtube.com/watch?v=k_1Gs-eIb8U)
 
 ## Education
 
@@ -81,6 +97,15 @@ GPA: 3.93 / 4.00
 - STAT 134: Concepts of Probability
 - STAT 135: Concepts of Statistics
 - STAT 151A: Linear Modeling: Theory and Applications
+
+---
+
+## Certifications
+- **[DeepLearning.AI Machine Learning in Production](https://coursera.org/share/1a94f570611536d8296a2adaccb7bfad)**  
+*Earned:* August 2024
+
+- **[Google Advanced Data Analytics](https://coursera.org/share/ce8b27041247c51e73f26852b4480856)**  
+*Earned:* May 2023
 
 ---
 
