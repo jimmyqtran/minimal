@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# About Me
-
 I'm a machine learning engineer and educator passionate about making an impact in data science and financial technology. I'm also a part-time graduate student at Stanford University pursuing my interests in computer science.
 
 I completed the Graduate Certificate Program in Data Science at Harvard Extension School in 2021. Prior to that, I completed my undergraduate studies in statistics and economics at the University of California, Berkeley, in 2018. During my final undergraduate term, I studied abroad at the London School of Economics and Political Science.
