@@ -2,13 +2,13 @@
 layout: default
 ---
 
-I'm a machine learning engineer and educator passionate about making an impact in data science and financial technology. I'm also a part-time graduate student at Stanford University pursuing my interests in computer science.
+Ever since I discovered how machine learning can transform financial systems, I've been on a mission to merge data science with fintech. As both an engineer and an educator, I thrive on making complex concepts accessible and impactful. Pursuing my passion further, I'm a part-time graduate student at Stanford University, exploring the frontiers of computer science to stay at the forefront of innovation.
 
-I completed the Graduate Certificate Program in Data Science at Harvard Extension School in 2021. Prior to that, I completed my undergraduate studies in statistics and economics at the University of California, Berkeley, in 2018. During my final undergraduate term, I studied abroad at the London School of Economics and Political Science.
+My educational path has been a coast-to-coast adventure—and even crossed the Atlantic. After immersing myself in statistics and economics at the University of California, Berkeley, I expanded my global perspective by studying abroad at the London School of Economics and Political Science. Eager to deepen my expertise in data-driven technologies, I completed a Graduate Certificate in Data Science at Harvard Extension School in 2021. 
 
-I'm also a proud first-generation, low-income (FLI) college graduate. My parents fled from Vietnam to the United States as war refugees over 30 years ago and instilled in me a strong work ethic and a passion for learning.
+As a proud first-generation, low-income (FLI) college graduate, my story is deeply rooted in resilience and aspiration. Over 30 years ago, my parents fled Vietnam as war refugees, seeking a new beginning in the United States. The courage they've shown on their journey continues to inspire me to push boundaries and strive for excellence in all that I do.
 
-In my spare time, I’m an avid lover of espresso and enjoy supporting local roasters. My favorite spot for coffee beans is [Andytown Coffee Roasters](https://www.andytownsf.com/).
+When I'm not delving into algorithms or teaching, you can find me exploring the rich world of espresso. My favorite spot for coffee beans is [Andytown Coffee Roasters](https://www.andytownsf.com/).
 
 ---
 
